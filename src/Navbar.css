@@ -1,0 +1,8 @@
+.navbar {
+    background-color: red;
+    height: 40px;
+    position: sticky;
+    top: 0;
+    color: aliceblue;
+    text-align: center;
+}
