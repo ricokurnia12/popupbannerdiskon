@@ -5,12 +5,14 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Popup from './Popup';
 import Navbar from './Navbar';
+import Polpol from './Polpol';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Popup/>
-    <Navbar/>
+    <Popup />
+    <Navbar />
+    <Polpol />
     <App />
   </React.StrictMode>
 );
